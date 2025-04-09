@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/MantasKukulskis/astronaut
+Site published at: https://github.com/MantasKukulskis/collor-on-click
 
 ## 🎯 Project features/goals
 
@@ -43,7 +43,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MantasKukulskis/astronaut.git
+   git clone https://github.com/MantasKukulskis/collor-on-click.git
    ```
 2. Install NPM packages
    ```sh
